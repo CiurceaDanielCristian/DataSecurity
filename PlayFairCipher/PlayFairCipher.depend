@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542575023 source:c:\users\raluca\desktop\datasecurity\playfaircipher\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
